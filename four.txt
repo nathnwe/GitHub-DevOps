@@ -1,0 +1,2 @@
+
+I'm adding a newline to four.txt
