@@ -1,0 +1,2 @@
+1 This file was created locally inside a folder.
+- I will use `git add -A` to stage all changes including untracked files directly.
